@@ -18,6 +18,7 @@ Please place the "currencies.txt" supporting file in the same folder as the scri
 
 ## Project Versions
 V1 - Simpler version of the script, uses the console for inputs of the currencies, with no GUI.
+
 V2 - More complete version of the script, has a GUI for inputs and currency selection.
 
 ## License
